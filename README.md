@@ -1,4 +1,4 @@
-# Computer-Generated-image-dataction
+# Computer-Generated-image-detection
 The source code for the paper entitled "An Evaluation of Deep Learning-based Computer Generated Image Detection Approaches"
 
 Each folder contains a file called ‘step’, which has the steps for each code.
